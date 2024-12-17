@@ -1,0 +1,12 @@
+IMC: 20,76
+Nome: Matheus
+Data do Teste: 2024-11-27
+CPF: 123.123.123-12
+Peso ideal
+
+IMC: 34,60
+Nome: Matheus
+Data do Teste: 2024-11-27
+CPF: 123.123.123-12
+Obesidade
+
